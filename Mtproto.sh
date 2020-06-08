@@ -5,7 +5,7 @@ green=`tput setaf 2`
 blue=`tput setaf 4`
 reset=`tput sgr0`
 
-echo "بزن بریم "
+echo "lets go "
 echo "${blue}@s0q0t_azad${reset}"
 echo  "Telegram.me/bedonemaarz"
 echo "Telegram.me/s0q0t_azad"
@@ -70,7 +70,7 @@ SS="$SECRETCODE"
 echo " "
 echo " "
 echo " "
-echo "در حال نصب 🔄🔄🔄🔄🔄"
+echo "Installing 🔄🔄🔄🔄🔄"
 docker run -d -p${PT}:443 --name=mtproto-proxy --restart=always -v proxy-config:/data -e WORKERS=${WO} -e SECRET=${SS} -e TAG=${TG} telegrammessenger/proxy:latest
 echo " "
 echo " "
@@ -84,11 +84,11 @@ echo "🔻"
 echo "🔻"
 
   
-   echo "${green}Install Finished${reset}"
+   echo "${blue}Install Finished${reset}"
     echo " "
 echo " "
-  echo  "${blue}Link shoma https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
-    echo  "${blue}Your Mtproto Proxy link https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
+  echo  "${green}Link shoma https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
+    echo  "${green}Your Mtproto Proxy link https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
 echo " "
 echo " "
 echo " "
