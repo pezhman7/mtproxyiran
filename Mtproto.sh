@@ -7,14 +7,8 @@ reset=`tput sgr0`
 
 echo "lets go "
 echo "lets go"
-echo "lets go"
-echo "lets go"
-echo "lets go"
 echo "${green}@s0q0t_azad${reset}"
 echo  "Telegram.me/bedonemaarz"
-echo "Telegram.me/s0q0t_azad"
-echo "lets go "
-echo "lets go"
 echo "lets go"
 echo "lets go"
 echo "lets go"
@@ -104,7 +98,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-  echo  "@soqot_azad"
+  echo  "@s0q0t_azad"
   fi
   fi
   fi
