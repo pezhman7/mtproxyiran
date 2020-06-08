@@ -5,19 +5,11 @@ green=`tput setaf 2`
 blue=`tput setaf 4`
 reset=`tput sgr0`
 
-echo "lets go "
-echo "😎"
-echo "😎"
-echo "😎"
-echo "😎"
-echo "${green}script By bedonemaarz${reset}"
+echo "بزن بریم "
+echo "${blue}@s0q0t_azad${reset}"
 echo  "Telegram.me/bedonemaarz"
 echo "Telegram.me/s0q0t_azad"
 echo "lets go "
-echo "😎"
-echo "😎"
-echo "😎"
-echo "😎"
 sleep 5
 sudo apt-get update
 sudo apt-get upgrade
@@ -78,16 +70,12 @@ SS="$SECRETCODE"
 echo " "
 echo " "
 echo " "
-echo "Installing 🔄🔄🔄🔄🔄"
+echo "در حال نصب 🔄🔄🔄🔄🔄"
 docker run -d -p${PT}:443 --name=mtproto-proxy --restart=always -v proxy-config:/data -e WORKERS=${WO} -e SECRET=${SS} -e TAG=${TG} telegrammessenger/proxy:latest
 echo " "
 echo " "
 echo " "
 sleep 5
-echo "🔻"
-echo "🔻"
-echo "🔻"
-echo "🔻"
 echo "🔻"
 echo "🔻"
 echo "🔻"
