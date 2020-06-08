@@ -42,11 +42,11 @@ echo " "
 echo " "
 echo " "
 
-echo Please, enter your SECRETCODE Default 469fe09b277900a8ae91dcefa736056b
+echo Please, enter your SECRETCODE Default ffff4444aaaa01015555666601019999
 read SECRETCODE
 echo "done Secret set to  $SECRETCODE!"
 echo " "
-echo Please, enter your port Default 6968
+echo Please, enter your port Default 8585
 read PORT
 echo "done PORT set to  $PORT!"
 echo " "
@@ -54,7 +54,7 @@ if [ ! -z "$WORKERS" ]; then
   echo "[+] Using Default WORKERS: ${WORKERS}."
 else
   WORKERS="$WORKERS"
-echo Please, enter your WORKERS Default 2 If you have powerfull system insert what you want max 16
+echo Please, enter your WORKERS Default 6 If you have powerfull system insert what you want max 25
 read WORKERS
 echo "done WORKERS set to  $WORKERS!"
 WO="$WORKERS"
