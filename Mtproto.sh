@@ -6,10 +6,18 @@ blue=`tput setaf 4`
 reset=`tput sgr0`
 
 echo "lets go "
-echo "${blue}@s0q0t_azad${reset}"
+echo "lets go"
+echo "lets go"
+echo "lets go"
+echo "lets go"
+echo "${green}@s0q0t_azad${reset}"
 echo  "Telegram.me/bedonemaarz"
 echo "Telegram.me/s0q0t_azad"
 echo "lets go "
+echo "lets go"
+echo "lets go"
+echo "lets go"
+echo "lets go"
 sleep 5
 sudo apt-get update
 sudo apt-get upgrade
@@ -34,11 +42,11 @@ echo " "
 echo " "
 echo " "
 
-echo Please, enter your SECRETCODE Default ffff4444aaaa01015555666601019999
+echo Please, enter your SECRETCODE Default 469fe09b277900a8ae91dcefa736056b
 read SECRETCODE
 echo "done Secret set to  $SECRETCODE!"
 echo " "
-echo Please, enter your port Default 8585
+echo Please, enter your port Default 6968
 read PORT
 echo "done PORT set to  $PORT!"
 echo " "
@@ -82,17 +90,21 @@ echo "🔻"
 echo "🔻"
 echo "🔻"
 echo "🔻"
+echo "🔻"
+echo "🔻"
+echo "🔻"
+echo "🔻"
 
   
-   echo "${blue}Install Finished${reset}"
+   echo "${green}Install Finished${reset}"
     echo " "
 echo " "
-  echo  "${green}Link shoma https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
-    echo  "${green}Your Mtproto Proxy link https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
+  echo  "${blue}proxy shoma https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
+    echo  "${blue}Your Mtproto Proxy link https://t.me/proxy?server=${IP}&port=${PT}&secret=${SS}${reset}"
 echo " "
 echo " "
 echo " "
-  echo  "@s0q0t_azad"
+  echo  "@soqot_azad"
   fi
   fi
   fi
