@@ -104,7 +104,7 @@ echo " "
 echo " "
 echo " "
 echo " "
-  echo  " telegram : @s0q0t_azad"
+  echo  "@s0q0t_azad"
   fi
   fi
   fi
