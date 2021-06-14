@@ -10,6 +10,8 @@ mt proxy   پروکسی تلگرام
 
 4: sudo sh Mtproto.sh
 
+نصب در یک خط 
+
  git clone https://github.com/pezhman7/mtproxyiran && cd mtproxyiran && chmod +x Mtproto.sh && sudo sh Mtproto.sh
 
 اگر اشتباهی رخ داد با این دستور پروکسی رو حذف کنید و دوباره نصب کنید: sudo docker rm -f mtproto-proxy    
